@@ -63,7 +63,8 @@ Supported languages
  * Spanish
  * French
  * German
-
+ * Brazilian Portuguese
+ * Head to [Transifex](https://www.transifex.com/sls/sls) if you want to be a translator
 
 Supported websites (to scrobble to)
 -----------------------------------
